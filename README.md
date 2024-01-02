@@ -1,4 +1,4 @@
-# Прогнозирование туристических посещений[RU]
+# Прогнозирование туристических посещений [RU]
 ## Описание
 Данный проект посвящен прогнозированию туристических посещений с использованием методов продвинутого анализа данных и машинного обучения. Реализованное решение включает в себя обширную инженерию признаков, исследовательский анализ данных и применение регрессионной модели CatBoost для прогнозирования.
 # ЗАМЕЧАНИЕ
@@ -29,7 +29,7 @@
 #
 #
 #
-# Tourist arrivals[ENG]
+# Tourist arrivals [ENG]
 ## Description
 This project focuses on forecasting tourist visits using advanced data analysis and machine learning methods. The implemented solution includes extensive feature engineering, exploratory data analysis, and the application of the CatBoost regression model for forecasting.
 # NOTE
